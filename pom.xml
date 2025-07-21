@@ -14,7 +14,7 @@
   <distributionManagement>
     <repository>
       <id>user-name</id>
-      <url>https://maven.pkg.github.com/username/RepoName</url>
+      <url>https://maven.pkg.github.com/hanna667/if-condition</url>
     </repository>
   </distributionManagement>
 </project>
